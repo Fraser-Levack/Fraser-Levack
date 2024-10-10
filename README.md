@@ -8,6 +8,8 @@ Looking to collab on anything new! You can find me on linkedIn or on other place
 
 # 🦈
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fraser-Levack&theme=dark)
+
 <!---
 Fraser-Levack/Fraser-Levack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
