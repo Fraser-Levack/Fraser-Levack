@@ -8,8 +8,8 @@ Looking to collab on anything new! You can find me on linkedIn or on other place
 
 ### My CV
 
-- [![Download DOCX](./docx.svg)](./Fraser W Levack CV.pdf)
-- [![Download PDF](./pdf.svg)](./Fraser W Levack.docx)
+- [![Download DOCX](./docx.svg)](./Fraser_W_Levack_CV.pdf)
+- [![Download PDF](./pdf.svg)](./Fraser_W_Levack_CV.docx)
 
 # 🦈
 
