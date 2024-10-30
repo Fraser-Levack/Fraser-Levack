@@ -2,9 +2,14 @@
 
 ### I am currently a full time CompSci student at Glasgow Uni
 
-I like working on many different types of projects but at the moment I have been learning C. 
+I like working on many different types of projects but at the moment I have been learning React. 
 
 Looking to collab on anything new! You can find me on linkedIn or on other places too .
+
+### My CV
+
+- [![Download DOCX](./docx.svg)](./Fraser W Levack CV.pdf)
+- [![Download PDF](./pdf.svg)](./Fraser W Levack.docx)
 
 # 🦈
 
