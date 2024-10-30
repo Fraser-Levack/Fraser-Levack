@@ -5,13 +5,12 @@
 I like working on many different types of projects but at the moment I have been learning React. 
 
 Looking to collab on anything new! You can find me on linkedIn or on other places too .
+</br></br>
 
-### My CV
+# 🦈 Download My CV -
 
-- [![Download DOCX](./docx.svg)](./Fraser_W_Levack_CV.pdf)
-- [![Download PDF](./pdf.svg)](./Fraser_W_Levack_CV.docx)
+[![Download DOCX](./pdf.svg)](./Fraser_W_Levack_CV.pdf)  &emsp; [![Download PDF](./docs.svg)](./Fraser_W_Levack_CV.docx)
 
-# 🦈
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fraser-Levack&theme=dark)
 
