@@ -11,6 +11,7 @@ Looking to collab on anything new! You can find me on linkedIn or on other place
 
 [![Download DOCX](./docx.svg)](./Fraser_W_Levack_CV.docx)  &emsp;  [![Download PDF](./pdf.svg)](./Fraser_W_Levack_CV.pdf)
 
+<br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fraser-Levack&theme=dark)
 
