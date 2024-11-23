@@ -1,4 +1,4 @@
-# Hey I'm @Fraser-Levack 🐟
+# Hey I'm @Fraser-Levack 🐟🐟
 
 ### I am currently a full time CompSci student at Glasgow Uni
 
