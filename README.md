@@ -7,9 +7,15 @@ I like working on many different types of projects but at the moment I have been
 Looking to collab on anything new! You can find me on linkedIn or on other places too .
 </br></br>
 
+# 🌊 Check out my Website -
+
+### [🔗 fraserlevack.com](https://fraserlevack.com/)
+
+</br>
+
 # 🦈 Download My CV -
 
-[![Download DOCX](./docx.svg)](./Fraser_W_Levack_CV.docx)  &emsp;  [![Download PDF](./pdf.svg)](./Fraser_W_Levack_CV.pdf)
+[![Download PDF](./pdf.svg)](./Fraser_W_Levack_CV_2025.pdf)
 
 <br>
 
