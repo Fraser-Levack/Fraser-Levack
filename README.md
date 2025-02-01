@@ -11,8 +11,6 @@ Looking to collab on anything new! You can find me on linkedIn or on other place
 
 ### [🔗 fraserlevack.com](https://fraserlevack.com/)
 
-</br>
-
 # 🦈 Download My CV -
 
 [![Download PDF](./pdf.svg)](./Fraser_W_Levack_CV_2025.pdf)
