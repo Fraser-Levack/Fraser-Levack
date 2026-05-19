@@ -13,7 +13,7 @@ Looking to collab on anything new! You can find me on linkedIn or on other place
 
 # 🦈 Download My CV -
 
-[![Download PDF](./pdf.svg)](./Fraser_W_Levack_CV_2025.pdf)
+[![Download PDF](./pdf.svg)](./Fraser_W_Levack_CV_2026.pdf)
 
 <br>
 
