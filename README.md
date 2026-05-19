@@ -1,4 +1,4 @@
-# Hey I'm @Fraser-Levack 🐟🐟🐟
+# Hey I'm @Fraser-Levack ❄️
 
 ### I am currently a full time CompSci student at Glasgow Uni
 
@@ -7,7 +7,7 @@ I like working on many different types of projects but at the moment I have been
 Looking to collab on anything new! You can find me on linkedIn or on other places too .
 </br></br>
 
-# 🌊 Check out my Website -
+# 🏔️ Check out my Website -
 
 ### [🔗 fraserlevack.com](https://fraserlevack.com/)
 
